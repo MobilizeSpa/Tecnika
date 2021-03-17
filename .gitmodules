@@ -1,4 +1,0 @@
-[submodule "MobilizeSpa/Addons3ros/crm_checklist"]
-	path = MobilizeSpa/Addons3ros/crm_checklist
-	url = git@github.com:MobilizeSpa/Addons3ros.git
-	branch = main
