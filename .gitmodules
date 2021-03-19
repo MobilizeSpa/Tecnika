@@ -12,3 +12,8 @@
 	path = MobilizeSpa/Tecnika
 	url = git@github.com:MobilizeSpa/Tecnika.git
 	branch = main
+
+[submodule "MobilizeSpa/Addons3ros2"]
+	path = MobilizeSpa/Addons3ros2
+	url = git@github.com:MobilizeSpa/Addons3ros.git
+	branch = main
