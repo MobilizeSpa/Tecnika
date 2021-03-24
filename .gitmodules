@@ -37,3 +37,8 @@
 	path = MobilizeSpa/Addons3ros
 	url = git@github.com:MobilizeSpa/Addons3ros.git
 	branch = main
+
+[submodule "MobilizeSpa/CRMAdonns"]
+	path = MobilizeSpa/CRMAdonns
+	url = git@github.com:MobilizeSpa/Addons3ros.git
+	branch = main
